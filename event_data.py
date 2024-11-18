@@ -1,7 +1,6 @@
-"""
-Michelle Zuckerberg
-November 17, 2024
-This file handles fetching event data from a json file."""
+# Author: Michelle Zuckerberg
+# Date: November 17, 2024
+# Desciption: This file handles fetching event data from a json file.
 
 import json
 
