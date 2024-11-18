@@ -1,7 +1,6 @@
-"""
-Michelle Zuckerberg
-November 17, 2024
-This file handles scoring and ranking events based on relevance and word embeddings for semantic matching"""
+# Author: Michelle Zuckerberg
+# Date: November 17, 2024
+# Desciption: This file handles scoring and ranking events based on relevance and word embeddings for semantic matching
 
 import spacy # a word embedding library
 from sklearn.metrics.pairwise import cosine_similarity # for calculating semantic similarity
