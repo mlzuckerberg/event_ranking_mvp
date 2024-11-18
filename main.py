@@ -1,7 +1,6 @@
-"""
-Michelle Zuckerberg
-November 17, 2024
-This file is the main file which calls functions from other files"""
+# Author: Michelle Zuckerberg
+# Date: November 17, 2024
+# Desciption: This file is the main file which calls functions from other files
 
 import json
 from event_data import load_event_data
