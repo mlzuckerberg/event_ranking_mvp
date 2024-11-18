@@ -1,0 +1,52 @@
+[
+    {
+        "event_name": "Tech Summit 2024",
+        "event_url": "http://techsummit.com",
+        "score": 3
+    },
+    {
+        "event_name": "Healthcare Expo 2024",
+        "event_url": "http://healthcareexpo.com",
+        "score": 3
+    },
+    {
+        "event_name": "Marketing Innovation Summit",
+        "event_url": "http://marketinginnovation.com",
+        "score": 3
+    },
+    {
+        "event_name": "Global Health Conference",
+        "event_url": "http://globalhealthconf.com",
+        "score": 3
+    },
+    {
+        "event_name": "AI Expo 2024",
+        "event_url": "http://aieexpo.com",
+        "score": 3
+    },
+    {
+        "event_name": "Blockchain Expo Europe",
+        "event_url": "http://blockchainexpo.com",
+        "score": 3
+    },
+    {
+        "event_name": "E-commerce Growth Conference",
+        "event_url": "http://ecommercegrowth.com",
+        "score": 3
+    },
+    {
+        "event_name": "Big Data & Analytics Summit",
+        "event_url": "http://bigdataanalytics.com",
+        "score": 3
+    },
+    {
+        "event_name": "Global Supply Chain Forum",
+        "event_url": "http://globalsupplychainforum.com",
+        "score": 3
+    },
+    {
+        "event_name": "Healthcare Technology Conference",
+        "event_url": "http://healthcaretechconf.com",
+        "score": 3
+    }
+]

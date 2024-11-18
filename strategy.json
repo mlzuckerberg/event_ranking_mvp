@@ -1,0 +1,33 @@
+{
+  "target_audience": [
+    "developers",
+    "CTOs",
+    "digital marketers",
+    "healthcare professionals",
+    "data scientists"
+  ],
+  "objectives": [
+    "lead generation",
+    "brand awareness",
+    "product showcase"
+  ],
+  "industry_sector": [
+    "technology",
+    "marketing",
+    "healthcare"
+  ],
+  "geographic_focus": [
+    "USA",
+    "Canada",
+    "Germany"
+  ],
+  "budget_constraints": {
+    "min": 2500,
+    "max": 5000
+  },
+  "kpis": [
+    "attendee engagement",
+    "sales conversion",
+    "brand recognition"
+  ]
+}

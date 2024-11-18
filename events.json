@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Tech Summit 2024",
+    "url": "http://techsummit.com",
+    "audience": "developers, CTOs, tech enthusiasts",
+    "industry": "technology",
+    "location": "USA",
+    "cost": 3500
+  },
+  {
+    "name": "Healthcare Expo 2024",
+    "url": "http://healthcareexpo.com",
+    "audience": "healthcare professionals, doctors, medical researchers",
+    "industry": "healthcare",
+    "location": "USA",
+    "cost": 2500
+  },
+  {
+    "name": "Finance Forum 2024",
+    "url": "http://financeforum.com",
+    "audience": "financial analysts, investors, CFOs",
+    "industry": "finance",
+    "location": "UK",
+    "cost": 4000
+  },
+  {
+    "name": "Marketing Innovation Summit",
+    "url": "http://marketinginnovation.com",
+    "audience": "marketing professionals, brand managers",
+    "industry": "marketing",
+    "location": "Germany",
+    "cost": 3000
+  },
+  {
+    "name": "Global Health Conference",
+    "url": "http://globalhealthconf.com",
+    "audience": "doctors, healthcare managers, pharmaceutical executives",
+    "industry": "healthcare",
+    "location": "India",
+    "cost": 5000
+  },
+  {
+    "name": "AI Expo 2024",
+    "url": "http://aieexpo.com",
+    "audience": "AI researchers, engineers, data scientists",
+    "industry": "technology",
+    "location": "USA",
+    "cost": 4000
+  },
+  {
+    "name": "Renewable Energy Summit",
+    "url": "http://renewableenergysummit.com",
+    "audience": "environmental engineers, renewable energy investors",
+    "industry": "energy",
+    "location": "Australia",
+    "cost": 3500
+  },
+  {
+    "name": "Blockchain Expo Europe",
+    "url": "http://blockchainexpo.com",
+    "audience": "blockchain developers, fintech professionals",
+    "industry": "finance",
+    "location": "France",
+    "cost": 4500
+  },
+  {
+    "name": "Cybersecurity World Congress",
+    "url": "http://cybersecurityworld.com",
+    "audience": "cybersecurity professionals, IT admins",
+    "industry": "technology",
+    "location": "USA",
+    "cost": 5500
+  },
+  {
+    "name": "E-commerce Growth Conference",
+    "url": "http://ecommercegrowth.com",
+    "audience": "e-commerce managers, digital marketers",
+    "industry": "marketing",
+    "location": "Canada",
+    "cost": 2500
+  },
+  {
+    "name": "Smart Cities Expo",
+    "url": "http://smartcitiesexpo.com",
+    "audience": "urban planners, engineers, city officials",
+    "industry": "technology",
+    "location": "Spain",
+    "cost": 4200
+  },
+  {
+    "name": "Digital Transformation Summit",
+    "url": "http://digitaltransformation.com",
+    "audience": "business leaders, IT managers, consultants",
+    "industry": "technology",
+    "location": "USA",
+    "cost": 6000
+  },
+  {
+    "name": "Retail Innovation Conference",
+    "url": "http://retailinnovation.com",
+    "audience": "retail managers, e-commerce executives",
+    "industry": "retail",
+    "location": "USA",
+    "cost": 3500
+  },
+  {
+    "name": "Big Data & Analytics Summit",
+    "url": "http://bigdataanalytics.com",
+    "audience": "data scientists, analysts, CTOs",
+    "industry": "technology",
+    "location": "UK",
+    "cost": 4000
+  },
+  {
+    "name": "Global Supply Chain Forum",
+    "url": "http://globalsupplychainforum.com",
+    "audience": "supply chain managers, logistics professionals",
+    "industry": "logistics",
+    "location": "Germany",
+    "cost": 3000
+  },
+  {
+    "name": "Healthcare Technology Conference",
+    "url": "http://healthcaretechconf.com",
+    "audience": "healthcare IT professionals, software developers",
+    "industry": "healthcare",
+    "location": "USA",
+    "cost": 4500
+  },
+  {
+    "name": "Marketing AI Summit",
+    "url": "http://marketingaisummit.com",
+    "audience": "digital marketers, AI professionals",
+    "industry": "marketing",
+    "location": "Canada",
+    "cost": 3000
+  },
+  {
+    "name": "Financial Technology Forum",
+    "url": "http://fintechforum.com",
+    "audience": "fintech developers, banking professionals",
+    "industry": "finance",
+    "location": "Singapore",
+    "cost": 5000
+  },
+  {
+    "name": "Cybersecurity Awareness Week",
+    "url": "http://cybersecurityweek.com",
+    "audience": "security analysts, IT professionals",
+    "industry": "technology",
+    "location": "USA",
+    "cost": 2500
+  },
+  {
+    "name": "Cloud Computing Summit",
+    "url": "http://cloudcomputingsummit.com",
+    "audience": "cloud architects, software developers",
+    "industry": "technology",
+    "location": "UK",
+    "cost": 3000
+  },
+  {
+    "name": "Medical Device Conference",
+    "url": "http://medicaldeviceconf.com",
+    "audience": "medical device manufacturers, engineers",
+    "industry": "healthcare",
+    "location": "USA",
+    "cost": 4000
+  },
+  {
+    "name": "Blockchain for Business Summit",
+    "url": "http://blockchainforbusiness.com",
+    "audience": "business owners, blockchain experts",
+    "industry": "finance",
+    "location": "India",
+    "cost": 4200
+  },
+  {
+    "name": "Global Marketing Summit",
+    "url": "http://globalmarketingsummit.com",
+    "audience": "CMOs, digital marketers, brand managers",
+    "industry": "marketing",
+    "location": "Australia",
+    "cost": 4000
+  },
+  {
+    "name": "AI for Healthcare Summit",
+    "url": "http://aiforhealthcare.com",
+    "audience": "healthcare professionals, AI engineers",
+    "industry": "healthcare",
+    "location": "USA",
+    "cost": 3500
+  },
+  {
+    "name": "Retail Tech Expo",
+    "url": "http://retailtechexpo.com",
+    "audience": "retail tech professionals, e-commerce managers",
+    "industry": "retail",
+    "location": "Germany",
+    "cost": 5000
+  },
+  {
+    "name": "Future of Finance Conference",
+    "url": "http://futureoffinance.com",
+    "audience": "financial analysts, investors",
+    "industry": "finance",
+    "location": "USA",
+    "cost": 4500
+  },
+  {
+    "name": "Sustainability Expo 2024",
+    "url": "http://sustainabilityexpo.com",
+    "audience": "environmental activists, green tech professionals",
+    "industry": "energy",
+    "location": "UK",
+    "cost": 3000
+  },
+  {
+    "name": "Smart Manufacturing Forum",
+    "url": "http://smartmanufacturingforum.com",
+    "audience": "manufacturing engineers, industry professionals",
+    "industry": "manufacturing",
+    "location": "USA",
+    "cost": 4200
+  },
+  {
+    "name": "Tech for Good Conference",
+    "url": "http://techforgoodconference.com",
+    "audience": "tech professionals, non-profit leaders",
+    "industry": "technology",
+    "location": "Canada",
+    "cost": 2500
+  },
+  {
+    "name": "Digital Marketing World Forum",
+    "url": "http://digitalmarketingworldforum.com",
+    "audience": "digital marketers, content creators",
+    "industry": "marketing",
+    "location": "Australia",
+    "cost": 5000
+  },
+  {
+    "name": "Global AI Conference",
+    "url": "http://globalaiconference.com",
+    "audience": "AI researchers, data scientists",
+    "industry": "technology",
+    "location": "Singapore",
+    "cost": 3500
+  }
+]
